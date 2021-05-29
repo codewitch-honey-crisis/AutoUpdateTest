@@ -1,0 +1,10 @@
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\bin\Debug\AutoUpdate.exe.config
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\bin\Debug\AutoUpdate.exe
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\bin\Debug\AutoUpdate.pdb
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\obj\Debug\AutoUpdateTest.csprojAssemblyReference.cache
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\obj\Debug\AutoUpdate.AutoUpdateDemo.resources
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\obj\Debug\AutoUpdateTest.csproj.GenerateResource.cache
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\obj\Debug\AutoUpdateTest.csproj.CoreCompileInputs.cache
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\obj\Debug\AutoUpdate.exe
+C:\Users\gazto\Source\Repos\AutoUpdateTest\AutoUpdateTest\obj\Debug\AutoUpdate.pdb
