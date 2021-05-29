@@ -1,0 +1,9 @@
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\bin\Release\AutoUpdate.exe.config
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\bin\Release\AutoUpdate.exe
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\bin\Release\AutoUpdate.pdb
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.AutoUpdateDemo.resources
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.Properties.Resources.resources
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.csproj.GenerateResource.cache
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.exe
+C:\Users\gazto\Source\Repos\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.pdb
