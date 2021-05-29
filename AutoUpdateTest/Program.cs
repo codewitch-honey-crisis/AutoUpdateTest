@@ -15,7 +15,7 @@ namespace AutoUpdate
 		static void Main(string[] args)
 		{
 			// setup the auto update, and exit if there was an update
-			Updater.GitHubRepo = "/codewitch-honey-crisis/AutoUpdate";
+			Updater.GitHubRepo = "/codewitch-honey-crisis/AutoUpdateTest";
 			if (Updater.AutoUpdate(args))
 				return;
 			// if we got here, just run the app
